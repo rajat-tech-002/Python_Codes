@@ -1,0 +1,2 @@
+What is sys.argv?
+sys.argv is the list bro of commandline arguments passed to the Python program. argv represents all the items that come along via the command line input, it's basically an array holding the command line arguments of our program. Don't forget that the counting starts at zero (0) not one (1).
